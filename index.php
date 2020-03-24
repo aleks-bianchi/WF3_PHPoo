@@ -117,4 +117,8 @@ $lui->nomComplet = "Julien Anest";
 var_dump($lui);
 
 
-//echo get_class($toi);
+echo get_class($toi);
+
+//Test modification pour git sdlkjksdjkldsflkjlkjdflkjsldfjljfdljjlkjdsflkjlsdfjk
+//dslfkhksjhdfkjsdhf
+echo get_class($moi);
