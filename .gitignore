@@ -1,0 +1,4 @@
+# liste des fichiers et dossiers que l'on ne veut pas versionner
+
+# exclut le répertoire de travail de PHPStorm
+/.idea/
