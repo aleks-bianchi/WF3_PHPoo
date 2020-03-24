@@ -117,4 +117,4 @@ $lui->nomComplet = "Julien Anest";
 var_dump($lui);
 
 
-echo get_class($toi);
+//echo get_class($toi);
